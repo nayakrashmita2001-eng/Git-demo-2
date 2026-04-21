@@ -1,1 +1,8 @@
 my name is Rashmita
+
+
+Push
+
+committed - git commit -m "description"
+
+staged - git add .
